@@ -323,7 +323,7 @@ app.layout = html.Div([
                     html.P("2. Vertical Bar Chart comparing Top 10 Writers / Directors by selection"),
                     html.P("3. Pie Chart comparing Top 6 Genres by Average Rating"),
                     html.P("4. Horizontal Bar Chart comparing Top Genres by Runtime"),
-                    html.P("5. Scatter Chart displaying the relation between Runtime & Budget"),
+                    html.P("5. Scatter Chart displaying the relation between Runtime & Rating"),
                 ], className="text-center mb-4")
             ])
         ]),

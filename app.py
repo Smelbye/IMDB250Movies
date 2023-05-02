@@ -1,6 +1,5 @@
 import dash
 import numpy as np
-import seaborn as sns
 from dash import dcc
 from dash import html
 import matplotlib
@@ -8,7 +7,6 @@ import dash_bootstrap_components as dbc
 from dash import html
 from dash.dependencies import Input, Output
 import plotly.express as px
-import plotly.graph_objects as go
 import matplotlib.cm as cm
 import matplotlib.colors as mcolors
 import pandas as pd
